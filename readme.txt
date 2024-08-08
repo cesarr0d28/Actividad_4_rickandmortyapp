@@ -1,1 +1,1 @@
-Para ver la actividad ingresar desde la siguiente URL: 
+Para ver la actividad ingresar desde la siguiente URL: https://cesarr0d28.github.io/Actividad_4_rickandmortyapp/index.html
